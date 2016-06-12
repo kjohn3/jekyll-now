@@ -23,4 +23,4 @@ Be warned though, that this is a summer class and Downing does not slow it down.
 
 **Pick of the week!**
 
-I found this on Reddit, and thought it was interesting: http://code.joejag.com/2016/anti-if-the-missing-patterns.html. I generally feel like I use way too many conditionals when I could refactor my code into something more elegant, but I didn't know it was a common issue people had. The workarounds presented here are fairly common sense, but not something I've thought to use usually (other than NullObjects which are incredibly useful.)
+[I found this on Reddit, and thought it was interesting.](http://code.joejag.com/2016/anti-if-the-missing-patterns.html) I generally feel like I use way too many conditionals when I could refactor my code into something more elegant, but I didn't know it was a common issue people had. The workarounds presented here are fairly common sense, but not something I've thought to use usually (other than NullObjects which are incredibly useful.)
